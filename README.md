@@ -75,4 +75,6 @@ Questions :
     - The company's overall employee count has been increasing over the years.
 
 11. **Tenure by Department:**
-    - On average, employees stay with the company for about 8 years. Legal and Auditing departments have the highest tenure, while Services, Sales, and Marketing have the lowest. 
+    - On average, employees stay with the company for about 8 years. Legal and Auditing departments have the highest tenure, while Services, Sales, and Marketing have the lowest.
+
+this is the link from where i learn this project https://www.youtube.com/watch?v=PzyZI9uLXvY
